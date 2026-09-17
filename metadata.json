@@ -1,0 +1,6 @@
+{
+  "name": "Reading Detective – Std 7 English",
+  "description": "Interactive Std 7 English reading comprehension adventure with voice read aloud, 20 questions, timer, 3 lives, score, celebration fireworks, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
